@@ -1,0 +1,18 @@
+{
+  "name": "Schandroid_node_express_sequelize_api",
+  "version": "1.0.0",
+  "description": "A simple node express sequelize api",
+  "main": "server.js",
+  "author": "Schandroid",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.22.0"
+  }
+}
